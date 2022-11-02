@@ -1,4 +1,4 @@
 # web1
  first website
  
-kushagra gupta is a SUCKER!!!!!
+this is my first website!!
